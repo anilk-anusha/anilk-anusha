@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Anusha Anil</h1>
+<h1 align="center">Hello 👋, I'm Anusha Anil </h1>
 <h3 align="center">A UX Designer aspiring to become a Frontend Developer</h3>
 
 - 🌱 I’m currently learning **front end technologies**
 
 - 👯 I’m looking to collaborate on **HTML, CSS, JS projects**
 
-- ⚡ Fun fact **I love collecting and building Legos🙂**
+- ⚡ Fun fact **I love collecting, building Legos🙂 and reading about space 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
