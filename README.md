@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha Anil</h1>
 <h3 align="center">A UX Designer aspiring to become a Frontend Developer</h3>
 
-- 🔭 I’m currently volunteering in [IncluCity Calgary](https://www.inclucitycalgary.ca/)
+- 🔭 I’m currently volunteering with [IncluCity Calgary](https://www.inclucitycalgary.ca/)
 
 - 🌱 I’m currently learning **front end technologies**
 
