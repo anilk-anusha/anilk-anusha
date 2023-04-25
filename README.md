@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **front end technologies**
 
-- 👯 I’m looking to collaborate on **HTML,CSS, JS projects**
+- 👯 I’m looking to collaborate on **HTML, CSS, JS projects**
 
 - 📫 How to reach me **anusharao.ux@gmail.com**
 
-- ⚡ Fun fact **I love collecting/building Legos🙂**
+- ⚡ Fun fact **I love collecting and building Legos🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
