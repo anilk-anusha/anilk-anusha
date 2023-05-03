@@ -3,9 +3,7 @@
 
 - 🔭 I volunteer with [IncluCity Calgary](https://www.inclucitycalgary.ca/)
 
-- 🌱 I’m currently learning **front end technologies**
-
-- 👯 I’m looking to collaborate on **HTML, CSS, JS projects**
+- 🌱 I’m looking to collaborate on **Front End Projects**
 
 - ⚡ Fun fact **I love collecting, building Legos🙂 and reading about space 🚀**
 
