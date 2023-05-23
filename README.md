@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anusha Anil</h1>
-<h3 align="center">A UX Designer aspiring to become a Frontend Developer</h3>
+<h3 align="center">A UX Designer with a lot of interest in Frontend Development</h3>
 
 - 🔭 I volunteer with [IncluCity Calgary](https://www.inclucitycalgary.ca/)
 
