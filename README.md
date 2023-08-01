@@ -8,7 +8,7 @@ creating impactful digital experiences </h3>
 
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
-- 🎯 Check out my portfolio website here: 
+- 🎯 Check out my portfolio website here: https://anusha-anilkumar.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
