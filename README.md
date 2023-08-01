@@ -8,6 +8,8 @@ creating impactful digital experiences </h3>
 
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
+- 🎯 Check out my portfolio website here: 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anilk-anusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilk-anusha" height="30" width="40" /></a>
