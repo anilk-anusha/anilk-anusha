@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anusha Anil</h1>
-<h3 align="center"> I'm a UI / UX Designer and Web Developer with a knack for
+<h3 align="center"> I'm a tech writer turned Web Developer with a knack for
 creating impactful digital experiences </h3>
 
-- 🔭 I volunteer with [IncluCity Calgary](https://www.inclucitycalgary.ca/)
-
-- 🌱 I’m looking to collaborate on **Front End Projects**
+- 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/)
 
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
