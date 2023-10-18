@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anusha Anil</h1>
-<h3 align="center"> I'm a UI/UX Designer and Web Developer with a knack for
-creating impactful digital experiences </h3>
+<h1 align="center">Hi 👋, I'm Anusha Anil Kumar</h1>
+<h3 align="center"> I'm a Full Stack Development Student with a strong background in UX Design and a knack for creating impactful digital experiences </h3>
 
-- 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/)
+- 🪴 I am a student doing a Certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
 
+- 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/) for a project to improve digital services for all Calgarians!
+ 
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
 - 🎯 Check out my portfolio website [here](https://anusha-anilkumar.netlify.app/)! 😄
