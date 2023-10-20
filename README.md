@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anusha Anil Kumar</h1>
-<h3 align="center"> I'm a Full Stack Development Student with a strong background in UX Design and a knack for creating impactful digital experiences </h3>
+<h3> I'm a Full Stack Development Student with a strong background in UX Design and a knack for creating impactful digital experiences </h3>
 
 - 🪴 I am a student doing a Certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
 
