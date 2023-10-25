@@ -3,7 +3,7 @@
 
 - 🪴 I am a student doing a Certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
 
-- 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/) for a project to improve digital services for all Calgarians
+- 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/) for a project to improve digital services for all Calgarians 🌻
  
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
