@@ -7,6 +7,8 @@
  
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
+- 💻 I'm taking up the #100DaysOfCode challenge, stay tuned for updates! 💡
+
 - 🎯 Check out my portfolio website [here](https://anusha-anilkumar.netlify.app/)! 😄
 
 <h3 align="left">Connect with me:</h3>
