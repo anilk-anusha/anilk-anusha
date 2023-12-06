@@ -7,14 +7,8 @@
  
 - ⚡ Fun fact **I love collecting, building Legos 🙂 and reading about space 🚀**
 
-- 💻 I'm taking up the #100DaysOfCode challenge, stay tuned for updates! 💡
-
 - 🎯 Check out my portfolio website [here](https://anusha-anilkumar.netlify.app/)! 😄
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anilk-anusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilk-anusha" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
