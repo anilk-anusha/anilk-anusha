@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anusha Anil Kumar</h1>
-<p align="center">I'm a Full Stack Development Student with a strong background in UX Design and a knack for creating impactful digital experiences </p>
+<p align="center">Web Developer with a strong background in UX Design and a knack for creating impactful digital experiences </p>
 
-- 🪴 I am a student doing a Certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
+- 🪴 Currently pursuing a certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
 
 - 🔭 I volunteer with [City of Calgary](https://www.calgary.ca/home.html) & [IncluCity Calgary](https://www.inclucitycalgary.ca/) for a project to improve digital services for all Calgarians 🌻
  
