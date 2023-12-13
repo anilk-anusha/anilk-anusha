@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anusha Anil Kumar</h1>
-<p align="center"> I'm a front-end developer with a knack for creating captivating digital experiences. </p>
+<p align="center"> I'm a UX Designer turned Front-end developer with a knack for creating captivating digital experiences. </p>
 
 - 🪴 Currently pursuing a certificate in Full-Stack Web Development with Python Programming under the Women In Tech Program Fall 2023 with [Making Changes Association](https://www.makingchangesassociation.ca/women-in-technology)
 
